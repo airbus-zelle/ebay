@@ -1,7 +1,5 @@
 #List of DevOps of Engineers at Airbus
 Idriss
-Simon
-Sylvie
 Eric
 Evolie
 Landmark
@@ -10,3 +8,4 @@ Rudolf
 Chuka
 Ken
 Kennedy
+
